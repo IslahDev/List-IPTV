@@ -1,0 +1,13 @@
+#INDONESIA TV
+
+#EXTINF:-1 tvg-id="TRANS7HD.id" tvg-name="Trans7" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",Trans7
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="News",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-name="TransTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/CxCFC7VH/image.png" group-title="General",TransTV
+http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="General",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
