@@ -5,6 +5,9 @@ http://kuchini.site:8080/live/atlantis/FTZ7w6KRM2fHZ94s/157486.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAY_SIA 1", MY: Astro Arena
 http://kuchini.site:8080/live/atlantis/FTZ7w6KRM2fHZ94s/157485.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO-MALAY", MY: Astro Arena
+http://kuchini.site:8080/F30140/f3de2280/157485
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="MALAY_SIA 1", MY: Astro Arena 2
 http://kuchini.site:8080/live/atlantis/FTZ7w6KRM2fHZ94s/287793.m3u8
 
